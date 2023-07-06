@@ -1,0 +1,7 @@
+@import url("./styles/output.css");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
